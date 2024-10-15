@@ -4,7 +4,5 @@ openai
 SpeechRecognition
 pydub
 requests
-tempfile
-os
 pyttsx3
-dotenv
+python-dotenv
