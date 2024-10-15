@@ -1,0 +1,10 @@
+streamlit
+moviepy
+openai
+speech_recognition
+pydub
+requests
+tempfile
+os
+pyttsx3
+dotenv
